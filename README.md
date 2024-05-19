@@ -37,4 +37,6 @@ One should provide doctor id or hospital
 - Prescription 
 Prescription details as a dataset for others to gain knowledge. 
 
-Here is the brief discription of the web application: https://www.youtube.com/watch?v=3RcKb9jzSng
+Here is the brief discription of the web application: 
+
+[![BusinessSearch-Application](https://img.youtube.com/vi/3RcKb9jzSng/0.jpg)](https://www.youtube.com/watch?v=3RcKb9jzSng)
